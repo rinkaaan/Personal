@@ -1,0 +1,6 @@
+[submodule "PersonalConfidentialData"]
+	path = PersonalConfidentialData
+	url = git@github.com:rinkaaan/PersonalConfidentialData.git
+[submodule "PersonalNotes"]
+	path = PersonalNotes
+	url = git@github.com:rinkaaan/PersonalNotes.git

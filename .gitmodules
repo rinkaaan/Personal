@@ -4,3 +4,6 @@
 [submodule "PersonalNotes"]
 	path = PersonalNotes
 	url = git@github.com:rinkaaan/PersonalNotes.git
+[submodule "PersonalConfidentialPythonExamples"]
+	path = PersonalConfidentialPythonExamples
+	url = git@github.com:rinkaaan/PersonalConfidentialPythonExamples.git
